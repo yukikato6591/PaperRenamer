@@ -25,7 +25,7 @@ python pdf_renamer.py
 
 ![GUI.png](GUI.png)
 
-Run ボタンを押すと、PDF名が、`雑誌名+出版名+タイトル.pdf` になります。
+Run ボタンを押すと、PDF名が、`雑誌名+出版年+タイトル.pdf` になります。
 #### 例
 * 雑誌名：Nature
 * 出版年：2021
